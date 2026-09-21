@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local course videos
+*.mp4
+
+# Local OS/editor files
+.vscode/
+.idea/
