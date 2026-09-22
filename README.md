@@ -36,7 +36,7 @@ lesson/
 ├── annotated/      # My annotated or extended versions
 ├── notes/          # My own explanations and conceptual notes
 ├── supplements/    # Additional learning material
-└── implementations/    # Independent implementations and implementations
+└── implementations/    # Independent implementations
 ````
 
 ### `course/`
