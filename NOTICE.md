@@ -17,7 +17,7 @@ Course attribution and licensing:
 
 The `course/` directories contain course-provided material.
 
-The `annotated/`, `notes/`, `supplements/`, and `experiments/`
+The `annotated/`, `notes/`, `supplements/`, and `implementations/`
 directories contain work created or modified by me unless otherwise
 indicated.
 

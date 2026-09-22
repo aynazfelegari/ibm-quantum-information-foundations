@@ -2,7 +2,7 @@
 
 Personal study repository for IBM Quantum Learning's **Basics of Quantum Information**, the first course in John Watrous's *Understanding Quantum Information and Computation* series.
 
-This repository contains course material, my own notes and annotations, supplementary resources, and independent Qiskit experiments developed while studying the course.
+This repository contains course material, my own notes and annotations, supplementary resources, and independent Qiskit implementations developed while studying the course.
 
 > **Disclaimer:** This is an independent study repository and is not an official IBM Quantum repository.
 
@@ -36,7 +36,7 @@ lesson/
 ├── annotated/      # My annotated or extended versions
 ├── notes/          # My own explanations and conceptual notes
 ├── supplements/    # Additional learning material
-└── experiments/    # Independent implementations and experiments
+└── implementations/    # Independent implementations and implementations
 ````
 
 ### `course/`
@@ -57,9 +57,9 @@ My own written explanations and summaries of concepts covered in the course.
 
 Additional material that I create or collect to strengthen my understanding of topics covered in the course.
 
-### `experiments/`
+### `implementations/`
 
-Independent Qiskit experiments and implementations.
+Independent Qiskit implementations and implementations.
 
 This is where I explore concepts beyond the original course notebooks.
 
@@ -107,7 +107,7 @@ Topics currently being studied include:
 - Unitary operations
 - Qiskit implementations
 
-My notes and experiments will be added as I work through the material.
+My notes and implementations will be added as I work through the material.
 
 ## Learning approach
 
@@ -117,7 +117,7 @@ I am using this repository not only to follow the course but also to:
 - write explanations in my own words;
 - annotate and extend the course notebooks;
 - reproduce concepts using Qiskit;
-- design independent computational experiments;
+- design independent computational implementations;
 - document questions and insights encountered during study.
 
 The goal is to turn the course into a structured, reproducible record of my learning rather than simply maintaining a collection of downloaded course files.
