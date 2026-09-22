@@ -59,7 +59,7 @@ Additional material that I create or collect to strengthen my understanding of t
 
 ### `implementations/`
 
-Independent Qiskit implementations and implementations.
+Independent Qiskit implementations.
 
 This is where I explore concepts beyond the original course notebooks.
 
@@ -67,10 +67,10 @@ This is where I explore concepts beyond the original course notebooks.
 
 ### 01 — Single Systems
 
--  Introduction
--  Classical information
--  Quantum information
--  Qiskit implementations
+- [x] Introduction
+- [x] Classical information
+- [x] Quantum information
+- [x] Qiskit implementations
 
 ### 02 — Multiple Systems
 
